@@ -1,0 +1,11 @@
+AI vs AI
+MiniMax
+Quiescence search
+Piece square table
+depth 6
+
+Tends to trade pieces so fast
+Did trade rook, pawn to rook, pawn but few steps from promoting.
+Ended with repetitive moves.
+
+Why not add repetitive moves also in evaluation? Like, if you are winning, it is a minus reward. But for losing, it is advantage.

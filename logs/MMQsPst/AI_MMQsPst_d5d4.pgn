@@ -1,0 +1,17 @@
+[Event "AI Match"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Python Engine (Depth 5)"]
+[Black "Python Engine (Depth 4)"]
+[Result "0-1"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. e4 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. d4 e6 7. c4 Bb4+ 8.
+Bd2 Qe4+ 9. Qe2 Qxe2+ 10. Kxe2 Bxd2 11. Kxd2 Kd7 12. Ke3 Re8 13. Ne5+ Nxe5 14.
+dxe5 Kc6 15. Bd3 Kc5 16. Bxh7 g6 17. Kd3 Rh8 18. Bxg6 fxg6 19. Kc3 a5 20. f4
+Bd7 21. Rag1 Bc6 22. a3 a4 23. Kd3 Rhd8+ 24. Kc3 Rd4 25. b3 axb3 26. Kxb3 Rxf4
+27. Rf1 Re4 28. Rf7 Rxe5 29. Rxc7 g5 30. h4 Kd6 31. Rg7 Re3+ 32. Kc2 gxh4 33.
+Rxh4 e5 34. a4 Rxa4 35. Kd2 Raa3 36. Rh8 Rad3+ 37. Kc2 e4 38. Rd8+ Kc5 39. Rc8
+Rb3 40. Rcc7 Rec3+ 41. Kd1 Rb2 42. Rg5+ Kxc4 43. Rg4 Kd3 44. Rg3+ e3 45. Rxe3+
+Kxe3 46. Re7+ Kd3 47. Ke1 Rc1# 0-1
+

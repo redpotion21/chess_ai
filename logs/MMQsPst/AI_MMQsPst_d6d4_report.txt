@@ -1,0 +1,12 @@
+#Game setting
+AI vs AI
+MiniMax
+Quiescence search
+Piece square table
+white : depth 6 ; black : depth 4
+
+#Obsevation
+White wins, no obvious blunder found. White, took advantage of passed pawn, pressuring black to promote pawn, and taking black pawns and rook, and eventually promoting. Game ends by rook-queen checkmate
+
+#Problem
+Black tends to move king forward on early games, making king more vulnerable.

@@ -1,0 +1,11 @@
+#Game setting
+AI vs AI
+MiniMax
+Quiescence search
+Piece square table
+white : depth 4 ; black : depth 5
+
+#Observation
+Black wins. White blunders Knight at move8(d3e4), and bishop at move20(e3c1) to move23
+
+Even using Quiescence search, which calculates kill chains, blunder in 1 depth happens.
