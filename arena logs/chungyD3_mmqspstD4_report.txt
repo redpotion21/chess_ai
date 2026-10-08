@@ -1,0 +1,13 @@
+#Game settings
+White: Chungy
+vanilla Minimax
+Depth : 3
+
+Black: MMQSPST
+Negamax, Quiensense Search, position table
+Depth : 4
+
+#Observation
+
+Black easily won white by early checkmate.
+The notable thing is, on move 14, black did a knight sacrifice, and did checkmate in 4.

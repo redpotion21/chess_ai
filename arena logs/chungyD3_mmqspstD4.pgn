@@ -1,0 +1,11 @@
+[Event "Jupyter Graphical AI Match"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White-Minimax-D3"]
+[Black "Advanced-Bot-D4"]
+[Result "0-1"]
+
+1. Nh3 Nc6 2. Ng5 e5 3. h4 h6 4. Ne4 d5 5. Ng3 Nf6 6. Rh2 Ng4 7. Rh3 Nxf2 8.
+Kxf2 Qf6+ 9. Ke3 Qf4+ 10. Kd3 Qd4# 0-1
+
